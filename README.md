@@ -89,4 +89,7 @@ If you have questions, suggestions or issues, please open an issue on GitHub or 
 
 ---
 
+## Expected output
+<img width="1604" height="1302" alt="image" src="https://github.com/user-attachments/assets/503ff6e1-6ae7-45f8-b0ed-8709b0d61151" />
+<img width="453" height="310" alt="image" src="https://github.com/user-attachments/assets/122c83af-faca-4391-aeb3-0eb6119173a1" />
 
